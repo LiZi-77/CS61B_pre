@@ -59,10 +59,10 @@
 - [ ] Lab12
 - [ ] Lab13
 - [ ] Lab14
-- [ ] Lab15
 
 ### HW
 
+- [ ] HW0
 - [ ] HW1
 - [ ] HW2
 - [ ] HW3
@@ -76,5 +76,6 @@
 - [ ] Proj0
 - [ ] Proj1a
 - [ ] Proj1b
+- [ ] Proj1
 - [ ] Proj2
 - [ ] Proj3
