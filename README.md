@@ -1,4 +1,4 @@
-## CS61B
+## CS61B🎉
 
 ### Lectures
 
@@ -79,3 +79,9 @@
 - [ ] Proj1
 - [ ] Proj2
 - [ ] Proj3
+
+### Exams📜
+
+- [ ] Midterm1
+- [ ] Midterm2
+- [ ] Final
