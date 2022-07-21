@@ -66,7 +66,7 @@ Notes for these course are all here:
 
 ### HW
 
-- [ ] HW0
+- [x] HW0
 - [ ] HW1
 - [ ] HW2
 - [ ] HW3
