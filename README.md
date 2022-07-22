@@ -1,8 +1,6 @@
 ## CS61B🎉
 
-Notes for these course are all here:
-
-[CS61B](onenote:https://d.docs.live.net/866663ca9c4da6f5/文档/CS61B/) ([Web 视图](https://onedrive.live.com/view.aspx?resid=866663CA9C4DA6F5!246&id=documents))
+Notes for these course are all local！
 
 ### Lectures
 
